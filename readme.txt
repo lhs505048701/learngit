@@ -1,5 +1,2 @@
-fdfdfdfd
-Afdfdfffdf
-Afdfdf
-Bfdffdfdf
-fdfdfdfdfdfdf
+thiS is a new readme
+haha 

@@ -4,4 +4,4 @@ add a new line
 this is a second
 this is a three
 create a new branch is dev
-create a new branch is quick & simple 
+Create a new branch is quick and simple 
